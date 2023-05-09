@@ -43,7 +43,7 @@ const projectList = [
   },
   {
     title: "Vibrance | A Sports and Cultural Fest Website",
-    description: "Developed the website for the Vibrance'23, Cultural and Sports Fest of VITC.",
+    description: "Designed & Developed the website for the Vibrance'23, Cultural and Sports Fest of VITC.",
     url: "https://vibrance-subpages.vercel.app/events",
   },
   {
